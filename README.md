@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Sharvari
 
-<!--
-**sharvari1508/sharvari1508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI & Data Science student  
+💡 Passionate about Machine Learning & Backend Development  
+🔥 Building real-world projects that solve problems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tech Stack
+Python | Machine Learning | Data Analysis | Flask | Git  
+
+---
+
+## 📊 Projects
+- 🏠 House Price Prediction with Explainable AI  
+- 📸 Crowd Watch (Real-time crowd monitoring system)  
+- 📊 AutoStat-AI++ (Survey analytics with AI)  
+
+---
+
+## 🎯 Goals
+- Become strong in Backend + AI Deployment  
+- Build impactful real-world applications  
+
+---
+
+## 🔗 Connect with me
+- LinkedIn: www.linkedin.com/in/sharvari-gaikwad-77454231b
+
